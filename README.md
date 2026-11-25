@@ -3,7 +3,7 @@
 An autonomous AI agent with its own Windows computer. You give it everyday tasks on Discord, in plain
 language, and it does the whole job itself, without you copying, pasting or clicking:
 
-> "Go through Seek, find grad dev jobs in Brisbane, tailor my resume for each and apply."
+> "Research the top 5 budget mechanical keyboards, compare them in a spreadsheet and tell me which to buy."
 > "Go through my inbox and tell me what's missing from the invoices."
 > "Turn this bug report into GitHub tickets."
 > "Rename all the photos in Downloads by date."
